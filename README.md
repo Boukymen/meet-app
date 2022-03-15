@@ -1,8 +1,6 @@
 
 
-# Getting Started with Create React App
 
-like to show it :  https://meetappv1.herokuapp.com/
 
 # Getting Started with Create React App
 
